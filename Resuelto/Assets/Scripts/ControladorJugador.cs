@@ -13,7 +13,9 @@ public class ControladorJugador : MonoBehaviour
     public Transform padreComida;
 
     public float margenVertical = 1;
-    
+
+    public int alimenta2;
+
     void Update()
     {
         #region Movimiento
